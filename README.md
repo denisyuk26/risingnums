@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [Page with result](https://denisyuk26.github.io/risingnums/)
 
-## Check master branch for het source code
+### Check master branch to see source code
 
 ## Available Scripts
 
