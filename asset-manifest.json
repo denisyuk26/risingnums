@@ -1,14 +1,13 @@
 {
-  "main.css": "/risingnums/static/css/main.a3e4aeac.chunk.css",
-  "main.js": "/risingnums/static/js/main.f536a4e1.chunk.js",
-  "main.js.map": "/risingnums/static/js/main.f536a4e1.chunk.js.map",
+  "main.css": "/risingnums/static/css/main.80140595.chunk.css",
+  "main.js": "/risingnums/static/js/main.c8ddc100.chunk.js",
+  "main.js.map": "/risingnums/static/js/main.c8ddc100.chunk.js.map",
   "runtime~main.js": "/risingnums/static/js/runtime~main.249c7124.js",
   "runtime~main.js.map": "/risingnums/static/js/runtime~main.249c7124.js.map",
-  "static/js/2.8f71a45e.chunk.js": "/risingnums/static/js/2.8f71a45e.chunk.js",
-  "static/js/2.8f71a45e.chunk.js.map": "/risingnums/static/js/2.8f71a45e.chunk.js.map",
+  "static/js/2.f213e47f.chunk.js": "/risingnums/static/js/2.f213e47f.chunk.js",
+  "static/js/2.f213e47f.chunk.js.map": "/risingnums/static/js/2.f213e47f.chunk.js.map",
   "index.html": "/risingnums/index.html",
-  "precache-manifest.addedaf682434706b32dec34bd9bb76b.js": "/risingnums/precache-manifest.addedaf682434706b32dec34bd9bb76b.js",
+  "precache-manifest.d1bc6cf75271ee1898c8dc7041b93505.js": "/risingnums/precache-manifest.d1bc6cf75271ee1898c8dc7041b93505.js",
   "service-worker.js": "/risingnums/service-worker.js",
-  "static/css/main.a3e4aeac.chunk.css.map": "/risingnums/static/css/main.a3e4aeac.chunk.css.map",
-  "static/media/logo.svg": "/risingnums/static/media/logo.5d5d9eef.svg"
+  "static/css/main.80140595.chunk.css.map": "/risingnums/static/css/main.80140595.chunk.css.map"
 }
